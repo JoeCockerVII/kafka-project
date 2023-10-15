@@ -33,3 +33,9 @@ build/
 .vscode/
 .mvn
 /database.json
+
+/consumer/mvnw
+/mvnw
+/consumer/mvnw.cmd
+/producer/mvnw.cmd
+/mvnw.cmd
